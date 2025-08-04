@@ -90,6 +90,28 @@
 => Practiced writing SELECT queries with WHERE, LIKE, and ORDER BY.  
 => Created a small relational data model involving students, courses, and enrollments with real data entries.  
 
+## Day 9 (Thursday, 31-07-2025)
+=> Connected Express.js with MongoDB using Mongoose.  
+=> Understood the concept of ODM (Object Document Mapper).  
+=> Defined Mongoose schemas and created models.  
+=> Practiced CRUD operations in MongoDB using Mongoose methods.  
+=> Learnt how to use .save(), .find(), .findById(), .findByIdAndUpdate(), .deleteOne() etc.  
+=> Created sample collections and documents for Students and Courses.  
+=> Discussed the difference between .create() and .save().  
+=> Understood how MongoDB documents differ from SQL rows.  
+
+## Day 10 (Friday, 01-08-2025)
+=> Built a basic CRUD API using Express.js and MongoDB.  
+=> Organized the project using MVC (Model-View-Controller) architecture.    
+=> Created separate folders for routes, controllers, models, and middleware.  
+=> Implemented basic API routes for Create, Read, Update, and Delete operations.  
+=> Used Postman to test all routes with various data cases.  
+=> Handled errors gracefully with try-catch and centralized error middleware.  
+=> Integrated environment variables using dotenv for database credentials and port.  
+=> Practiced using async/await for handling asynchronous database operations.  
+
+
+
 References:  
 - https://nodejs.org/  
 - https://expressjs.com/  
