@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "pankaj",
+    "database": "student_course_management",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "pankaj",
+    "database": "student_course_management",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL",
+    "dialect": "postgres"
+  }
+}
+
+
+
+
+
+
+
+
+
+
